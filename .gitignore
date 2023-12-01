@@ -1,0 +1,7 @@
+node_modules/
+dist/
+.vscode/
+config/flyway.js
+flyway.js
+newrelic.js
+newrelic_agent.log
