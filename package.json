@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "compile": "npx tsc",
-    "2023-1": "npm run compile && node dist/2023/1/1.js"
+    "2023-1": "npm run compile && node dist/2023/1/1.js",
+    "2023-2": "npm run compile && node dist/2023/2/2.js"
   },
   "repository": {
     "type": "git",
