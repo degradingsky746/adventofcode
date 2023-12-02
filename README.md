@@ -1,1 +1,1 @@
-Mainting solutions for Advent of Code (https://adventofcode.com)
+Maintaining solutions for Advent of Code (https://adventofcode.com)
